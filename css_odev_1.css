@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style-position: inside;
+    background-color: bisque;
+}
+
+.text-red {
+    color: red;
+}
+
+h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+}
+h5 {
+    text-align: left;
+    font-size: 30px;
+    color: green;
+}
+/* Adres ve iletisim kisminda kullaniliyor */
+.Footer {
+    color: blue;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h6 {
+    font-size: 24px;
+    color: rgb(245, 46, 252);
+}
+
+/*Urunler listesinde sayilarin detaylari*/
+
+.List   {
+    
+    font-size: 20px;
+}
